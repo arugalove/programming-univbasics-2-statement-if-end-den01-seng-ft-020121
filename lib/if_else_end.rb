@@ -3,3 +3,4 @@ if current_time.to_i % 2 == 0
   puts "EVEN!"
 else 
   puts "ODD!"
+end
